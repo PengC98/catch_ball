@@ -1,0 +1,19 @@
+<package>
+  <description brief="img_trans">
+
+     img_trans
+
+  </description>
+  <author>pc</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/img_trans</url>
+  <depend package="rospy"/>
+  <depend package="roscpp"/>
+  <depend package="std_msgs"/>
+  <depend package="sensor_msgs"/>
+  <depend package="cv_bridge"/>
+
+</package>
+
+
